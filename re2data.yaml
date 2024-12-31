@@ -1,0 +1,62 @@
+---
+
+CV:
+  Shield_Generator:
+    Compact:
+      Capacity: 6000
+      Regen: 300
+      Cooldown: 25
+      Per_Crystal: 500
+    Regular:
+      Capacity: 12000
+      Regen: 300
+      Cooldown: 20
+      Per_Crystal: 750
+    Advanced:
+      Capacity: 24000
+      Regen: 600
+      Cooldown: 15
+      Per_Crystal: 1000
+
+  Shield_Boosters:
+    Capacitor:
+      Basic:
+        Max: 8
+        Capacity: 8000
+        Regen: -4000
+      Improved:
+        Max: 6
+        Capacity: 16000
+        Regen: -8000
+      Advanced:
+        Max: 4
+        Capacity: 32000
+        Regen: -16000
+    Recharger:
+      Basic:
+        Max: 8
+        Capacity: -150
+        Regen: 300
+      Improved:
+        Max: 6
+        Capacity: -300
+        Regen: 600
+      Advanced:
+        Max: 4
+        Capacity: -600
+        Regen: 1200
+
+  Blocks:
+    Steel: 1
+    Hardened_Steel: 2
+    Combat_Steel: 4
+    Xeno_Steel: 7
+
+  Fusion_Reactor:
+    Small:
+      Max: 4
+      Regen: 250
+    Large:
+      Max: 2
+      Regen: 1000
+      
